@@ -1,0 +1,1 @@
+# c-string-using-str-compare-fun
